@@ -40,6 +40,3 @@ While not necessary for the main project, these steps offer a deeper understandi
 3. **Embedding Conversion**:
    - Navigate to the `demo.ipynb` notebook. This notebook contains code to convert a `.wav` file into its embeddings by making a call to the Audio Embedding service.
 
-## Acknowledgments
-- Google's AudioSet for the dataset.
-- MAX-Audio-Embedding-Generator for audio encoding.
